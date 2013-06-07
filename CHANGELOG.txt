@@ -1,7 +1,7 @@
 GreasySpoon CHANGELOG
 ==================================================
 
-GreasySpoon v1.0.8
+GreasySpoon v1.0.9
 ---------------------------------------------------
 Bug fix:
 	#3291438: replace .bat file under windows by hta (html application)
